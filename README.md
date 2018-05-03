@@ -1,6 +1,6 @@
 # Read the wiki for this repository for more information on using these files
 
-## BLAT Src
+## BLAT
 
 Adaptation of BLAT source code to launch instances of JBrowse for viewing of query results.
 
