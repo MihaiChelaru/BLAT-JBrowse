@@ -15,3 +15,5 @@ Also see http://gmod.org/wiki/JBrowse_Configuration_Guide for instructions on ho
 JBrowse is open source, part of the GMOD suite of programs.
 
 Find JBrowse repo here: https://github.com/GMOD/jbrowse
+
+## Read the Wiki!
