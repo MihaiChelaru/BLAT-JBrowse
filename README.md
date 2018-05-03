@@ -1,3 +1,5 @@
+# Read the wiki for this repository for more information on using these files
+
 ## BLAT Src
 
 Adaptation of BLAT source code to launch instances of JBrowse for viewing of query results.
@@ -15,5 +17,3 @@ Also see http://gmod.org/wiki/JBrowse_Configuration_Guide for instructions on ho
 JBrowse is open source, part of the GMOD suite of programs.
 
 Find JBrowse repo here: https://github.com/GMOD/jbrowse
-
-## Read the Wiki!
